@@ -5,6 +5,4 @@ Documentation: https://developer.android.com/guide/fragments/animate
 
 
 
-
-
-![Uploading AndroidEmulator-Pixel_8_API_29_55542024-11-0411-44-25online-video-cutter.com-ezgif.com-video-to-gif-converter (1).gif…]()
+![animation](https://github.com/user-attachments/assets/6bfe2eb5-c359-4dac-8030-88eeca845552)
